@@ -75,7 +75,8 @@
   }
   
   header {
-    border-bottom: 5px solid #599a68;
+    /*border-bottom: 5px solid #599a68;*/
+    border-bottom: 5px solid #98F5FF;
     margin-bottom: 60px;
   }
 
